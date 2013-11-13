@@ -1,0 +1,4 @@
+name: Your New DoctorPi Site
+markdown: redcarpet
+pygments: true
+baseurl: /DoctorPi
