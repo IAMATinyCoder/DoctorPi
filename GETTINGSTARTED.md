@@ -4,7 +4,6 @@ Before you get started, make sure you have:
 
 * [Git](http://git-scm.com/downloads)
 * [Python](http://www.python.org/getit/)
-* [Firefox](http://www.mozilla.org/en-US/firefox/)
 * A basic text editor
 * A command-line interface
 
