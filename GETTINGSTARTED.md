@@ -4,6 +4,7 @@ Before you get started, make sure you have:
 
 * [Git](http://git-scm.com/downloads)
 * [Python](http://www.python.org/getit/)
+* [Tweepy](https://github.com/joshthecoder/tweepy)
 * A basic text editor
 * A command-line interface
 
