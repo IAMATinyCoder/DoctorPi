@@ -24,13 +24,12 @@ The purpose of this project is to give both new and experienced python programme
 
 For this project, we will be using Tweepy, a twitter library for python. To get the latest version of Tweepy, you can do a pip install like so:
 
-  sudo pip install tweepy
+    pip install tweepy
 
 Or, you can clone the latest version from their Git repository and install it manually like so:
 
-  git clone https://github.com/tweepy/tweepy.git
-  python setup.py install
-
+    git clone https://github.com/tweepy/tweepy.git
+    python setup.py install
 
 #### Ways for Others to Contribute Now or in the Future:
 
