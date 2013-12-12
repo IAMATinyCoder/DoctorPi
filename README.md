@@ -35,4 +35,4 @@ Or, you can clone the latest version from their Git repository and install it ma
 
 #### Ways for Others to Contribute Now or in the Future:
 
-There are truly no limits to the ways in which people can contribute to this project. Using the tools described in the GETTING STARTED document, participation in the present and future outcomes of the DoctorPi can be easy.
+There are truly no limits to the ways in which people can contribute to this project. Using the tools described in the GETTING STARTED document, participation in the present and future outcomes of the DoctorPi can be easy. This project is a work in progress, which means the program can only do about half of what I hope it will do someday. So, please feel free to open new issues, make a pull request, or even just leave a comment! 
