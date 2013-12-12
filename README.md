@@ -15,6 +15,8 @@ The purpose of this project is to give both new and experienced python programme
 #### Milestones:
 
 * Program connects to Twitter API
+* Program searches the Twitter API home_timeline for friend's tweets
+* Program prints friend's tweets to terminal
 * Program scrapes Twitter data into a text file
 * Program connects to term database
 * Program returns a value associated with a user after crawling database
